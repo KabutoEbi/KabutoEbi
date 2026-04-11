@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm KabutoEbi.
+I'm KabutoEbi, a student at a college of technology. I mainly engage in competitive programming with C++ and app development with Flutter.
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabutoEbi&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KabutoEbi&theme=vue)
