@@ -14,4 +14,4 @@ I'm KabutoEbi, a student at a college of technology. I mainly engage in competit
 ## My hobby
 - Roadbike
 - Solo Traveling
-- Listning to music
+- Listening to music
