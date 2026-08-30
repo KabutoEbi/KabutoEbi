@@ -9,7 +9,7 @@ I'm KabutoEbi, a student at a college of technology. I mainly engage in competit
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KabutoEbi&theme=vue&utcOffset=9)
 
 ## Tech & Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,flutter,html,css,js,ts,react,firebase,unity,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,flutter,js,ts,react,firebase,unity,git,github)](https://skillicons.dev)
 
 ## My hobby
 - Roadbike
